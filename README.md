@@ -9,6 +9,9 @@ to start the NodeJS server it is only necessary to launch the command:
 ```sh
 covid-api$ docker-compose up --build
 ```
+opening url: http://localhost:8000/infeted
+
+
 # Technologies:
 
 * [NodeJS] - Framework Backend Javascript!

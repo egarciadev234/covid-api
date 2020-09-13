@@ -1,0 +1,15 @@
+{
+  "name": "api-covid-consult",
+  "version": "1.0.0",
+  "description": "Web service that consumes a dataset of people infected by covid in Colombia, the delivery format of the data to the client is in JSON format and the information is discriminated by age.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick Echeverry García",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
